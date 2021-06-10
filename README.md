@@ -1,4 +1,4 @@
-# Basic_Banking_System
+# Basic_Banking_System | The Sparks Foundation | #GRIPJUNE21
 <h3>Technologies Used</h3>
 <ol>
   <li>FRONT-END: HTML,CSS AND BOOTSTRAP</li>
@@ -6,4 +6,4 @@
     <li>FRONT-END:PHPMYADMIN SQL</li>
 </ol>
 
-Website hosted using 000webhost -->> https://bnk-01.000webhostapp.com
+Website hosted using 000webhost.com -->> https://bnk-01.000webhostapp.com
