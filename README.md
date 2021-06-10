@@ -1,5 +1,5 @@
 # Basic_Banking_System | The Sparks Foundation | #GRIPJUNE21
-<h3>Technologies Used</h3>
+<h3>Technologies Used:</h3>
 <ol>
   <li>FRONT-END: HTML,CSS AND BOOTSTRAP</li>
     <li>BACK-END:PHP</li>
