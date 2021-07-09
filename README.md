@@ -1,4 +1,4 @@
-# Basic_Banking_System | The Sparks Foundation | #GRIPJUNE21
+# Basic_Banking_System | The Sparks Foundation | Web Development & Designing intern | #GRIPJUNE21
 <h3>Technologies Used:</h3>
 <ol>
   <li>FRONT-END: HTML,CSS AND BOOTSTRAP</li>
